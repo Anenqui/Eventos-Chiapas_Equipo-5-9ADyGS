@@ -25,3 +25,34 @@ Aplicar pull requests y revisiones de código colaborativas.
 Simular y resolver conflictos de versiones utilizando Git.
 Documentar correctamente el proyecto mediante archivos README.md y CONTRIBUTING.md.
 Publicar el sitio web utilizando GitHub Pages.
+
+Instrucciones de uso:
+
+-Clonar el repositorio desde GitHub en tu computadora:
+git clone "https://github.com/usuario/repositorio.git" (cambia esto por el link del Git)
+
+-Ingresar a la carpeta del proyecto:
+cd repositorio
+
+-Abrir el archivo index.html en cualquier navegador web para visualizar el sitio.
+Para trabajar de forma colaborativa, cada integrante debe crear una rama propia:
+git checkout -b nombre-rama
+
+-Realizar los cambios correspondientes en el proyecto y guardar los cambios con commits descriptivos:
+git add .
+git commit -m "Descripción del cambio realizado"
+
+-Subir los cambios al repositorio remoto:
+git push origin nombre-rama
+
+-Crear un Pull Request en GitHub para solicitar la revisión y posterior integración de cambios a la rama principal main.
+Finalmente, el sitio web puede visualizarse en línea mediante GitHub Pages.
+
+
+Tecnologías utilizadas:
+HTML5: Utilizado para crear la estructura y el contenido de las páginas web.
+CSS3: Empleado para diseñar y dar estilo visual al sitio web.
+JavaScript: Utilizado para agregar interactividad y funcionalidades dinámicas.
+Git: Sistema de control de versiones utilizado para gestionar cambios en el proyecto.
+GitHub: Plataforma utilizada para alojar el repositorio y trabajar colaborativamente.
+GitHub Pages: Servicio utilizado para publicar el sitio web en línea.
