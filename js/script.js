@@ -39,7 +39,7 @@ if (eventosContainer) {
   });
 }
 
-cont form = document.getElementById("contactForm");
+const form = document.getElementById("contactForm");
 
 if (form) {
 
@@ -50,7 +50,7 @@ if (form) {
     const nombre = document.getElementById("nombre").value;
     const respuesta = document.getElementById("respuesta");
 
-    respuesta.textContent = `Gracias por contactarnos, ${nombe}.`;
+    respuesta.textContent = `Gracias por contactarnos, ${nombre}.`;
 
     form.reset();
   });
