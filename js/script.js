@@ -50,7 +50,7 @@ if (form) {
     const nombre = document.getElementById("nombre").value;
     const respuesta = document.getElementById("respuesta");
 
-    respuesta.textContent = `Gracias por contactarnos, ${nombre}.`;
+    respuesta.textContent = `Gracias por contactarnos, ${nombre}, en breve se le atiende.`;
 
     form.reset();
   });
