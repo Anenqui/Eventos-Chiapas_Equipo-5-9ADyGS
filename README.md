@@ -2,11 +2,11 @@
 Equipo 5 9ADyGS, Anenqui,Rodrigo,Gabriela,Erick,Mario
 
 Equipo:
-•	Rodrigo Jordan Hernandez Cruz.
-•	Anenqui Yolatl Pintado Venegas.
-•	Gabriela Rodríguez Ovando.
-•	Erick Solórzano López.
-•	Juan Mario Morales Castellanos
+•	Rodrigo Jordan Hernandez Cruz.     100%
+•	Anenqui Yolatl Pintado Venegas.    100%
+•	Gabriela Rodríguez Ovando.         100%
+•	Erick Solórzano López.             100%
+•	Juan Mario Morales Castellanos     100%
 
 Descripción del Proyecto:
 
